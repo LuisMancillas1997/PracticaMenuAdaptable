@@ -1,0 +1,14 @@
+
+@page {size: portrait;}
+
+body{
+	font-family: verdana;
+}
+
+a:after{
+	content: " (" attr(href) ") ";
+}
+
+aside{
+	display: none limportant;
+}
